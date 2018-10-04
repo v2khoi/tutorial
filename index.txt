@@ -1,1 +1,2 @@
-�?n c? con kh? cung hi?u du?c l?nh Git
+Đến cả con khỉ cũng hiểu được lệnh Git
+add: Đăng ký thay đổi trong index
